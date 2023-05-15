@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "ES2016",
+      "lib": ["es2016", "dom"],
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true
+    }
+  }
